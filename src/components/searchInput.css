@@ -1,0 +1,26 @@
+.colum-filter-form {
+  align-items: center;
+  display: flex;
+  gap: 6px;
+  margin: 20px 0;
+}
+
+.colum-filter-form button {
+  border: solid 1px black;
+  border-radius: 6px;
+  padding: 5px 10px;
+  text-transform: uppercase;
+}
+
+.colum-filter-form input, .colum-filter-form select {
+  padding: 5px 10px;
+}
+
+.colum-filter-form button:hover {
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.select-label-text {
+  margin-right: 6px;
+}

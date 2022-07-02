@@ -1,0 +1,13 @@
+* {
+  font-family: sans-serif;
+}
+
+body {
+  padding: 20px;
+}
+
+h1 {
+  font-size: 48px;
+  margin: 40px 0;
+  text-align: center;
+}
